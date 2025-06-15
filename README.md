@@ -1,7 +1,6 @@
 ## 🎬 Demo
 ### 🎨 UI Screenshots
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/203632b3-324d-455f-851c-df939f6f573f" width="300" />
   <img src="https://github.com/user-attachments/assets/87ceb56e-2c0a-40d9-b454-e9944c0f0806" width="300" />
   <img src="https://github.com/user-attachments/assets/65177055-d819-4d88-aa40-b33462cb278f" width="300" />
   <img src="https://github.com/user-attachments/assets/bae7ce48-fc48-4964-bd0f-471a1b4ed055" width="300" />
